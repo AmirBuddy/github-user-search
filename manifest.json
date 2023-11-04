@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Github user searcher Extension",
+  "version": "1.0.0",
+  "description": "A simple Github user searcher",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"]
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub User Search</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>GitHub User Search</h1>
+      <form id="github-form" aria-label="Search for GitHub user by username">
+        <label for="username">Enter a GitHub username:</label>
+        <input type="text" id="username" required autocomplete="off" />
+        <button type="submit">Search</button>
+      </form>
+      <div class="result" id="result" aria-live="polite" role="region">
+        <!-- Results will be displayed here -->
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
