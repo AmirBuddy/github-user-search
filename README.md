@@ -1,10 +1,10 @@
 # GitHub User Search
 
 GitHub User Search is a simple web application that allows users to search for GitHub profiles by username and view detailed user information.
+This is the project that I did when I just started learning web development.
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Error Handling](#error-handling)
 - [Code Organization](#code-organization)
@@ -15,10 +15,6 @@ GitHub User Search is a simple web application that allows users to search for G
 - View detailed user profiles including their avatar, name, bio, email, location, followers, and public repositories.
 - Clean and responsive user interface.
 - Error handling for user not found cases.
-
-## Demo
-
-To see a live demo of this project, you can visit [Demo Link](link_to_demo).
 
 ## Getting Started
 
